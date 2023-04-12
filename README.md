@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a french developer based in Lausanne, Switzerland. I mainly do Android stuff, libraries, freelance project...
+Currently an employee for esmart/digitalstrom consortium who build a connected house with powerline.
+
+![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=alexandre-thauvin&theme=dracula&show_icons=true&count_private=true)
+
 <!--
 **alexandre-thauvin/alexandre-thauvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
