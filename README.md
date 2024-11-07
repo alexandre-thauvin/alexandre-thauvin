@@ -2,7 +2,6 @@
 
 I'm a french 🇫🇷 developer based in Lausanne, Switzerland 🇨🇭.   
 I mainly do Android & Kotlin stuff, libraries, freelance project...  
-Currently an employee for esmart/digitalstrom consortium who build a connected house with powerline.
 
 📫 How to reach me: alexandre@thauvin.dev  
 💬 Ask me about Android and Kotlin related stuff
