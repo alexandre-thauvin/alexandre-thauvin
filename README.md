@@ -6,6 +6,8 @@ I mainly do Android & Kotlin stuff, libraries, freelance project...
 📫 How to reach me: alexandre@thauvin.dev  
 💬 Ask me about Android and Kotlin related stuff
 
+I have a very cool setup on my MBP and my desktop computer (Arch) - Check dotfiles repo
+
 ![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=alexandre-thauvin&theme=dracula&show_icons=true&count_private=true)
 
 <!--
