@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french 🇫🇷 developer based in Lausanne, Switzerland 🇨🇭.   
+I'm a french 🇫🇷 developer based in Switzerland 🇨🇭.   
 I mainly do Android & Kotlin stuff, libraries, freelance project...  
 
 💬 Ask me about Android and Kotlin related stuff
